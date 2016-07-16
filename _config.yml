@@ -1,0 +1,14 @@
+layout_spectrum: 0.5886868566740304
+typography_spectrum: 0.09391681430861354
+color:
+  brandStrength: 0.2256297841668129
+  lightness: 0.8905219591688365
+  saturation: 0.10499767237342894
+  rhythmicContrast: 0.31796394125558436
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: MD
